@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Icons');
+* {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+}
+
+.nome-aluno{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(28, 9, 46);
+}
+
+a{
+    color: black;
+}
+
+main{
+    background-color: rgb(28, 9, 46);
+    padding: 39vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+main section{
+    color: black;
+    width: 20vw;
+    height: 30vh;
+    background-color: white;
+}
+
+main .campo span{
+    padding: 1px;
+    display:inline-flex;
+    margin-left: 2.7vh;
+}
+
+main h5{
+    font-size: 12px;
+    padding: 6px;
+    text-decoration: none;
+    color: white;
+}
+
