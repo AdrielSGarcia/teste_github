@@ -28,11 +28,15 @@ main section{
     color: black;
     width: 20vw;
     height: 30vh;
+    padding: 20px;
     background-color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 
 main .campo span{
-    padding: 1px;
+    padding: 3px;
     display:inline-flex;
     margin-left: 2.7vh;
 }
